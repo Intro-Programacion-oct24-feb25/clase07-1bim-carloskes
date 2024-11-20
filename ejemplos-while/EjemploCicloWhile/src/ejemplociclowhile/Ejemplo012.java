@@ -24,6 +24,7 @@ while(contador <= limite ){
     System.out.printf("%d\n", contador);
     contador = contador + 1;
 }
+System.out.printf("Variable fuera del while: %d\n", contador);
     }
     
 }
